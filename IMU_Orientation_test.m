@@ -1,4 +1,4 @@
-
+% A more robust method perhaps: https://learn.adafruit.com/how-to-fuse-motion-sensor-data-into-ahrs-orientation-euler-quaternions?view=all
 % This clears the port for reuse 
 delete(instrfind({'Port'}, {'COM6'}));
 
